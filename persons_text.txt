@@ -1,0 +1,16 @@
+Name: Joana
+Age: 40
+Height: 1.60m
+
+Name: Maria
+Age: 15
+Height: 1.60m
+
+Name: Abel
+Age: 23
+Height: 1.70m
+
+Name: Joao
+Age: 21
+Height: 1.80m
+
